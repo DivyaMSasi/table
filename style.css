@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite
+}
+.first h1{
+    color: blue;
+     background-color: red;
+    transition: all 0.5s ease;
+}
+.first h1:hover{
+    color: brown;
+    transform: scale(0.9);
+    
+}
+.first table{
+    color: brown;
+    background-color: gold;
+    /* transition: all 0.5s ease; */
+}
+/* .first table:hover{
+    transform: scale(0.9);
+
+} */
+.tables{
+    font-size: 20px;
+}
+.table2{
+    font-size: 20px;
+}
+.column{
+    color: green;
+    transition: all 0.5s ease;
+}
+.column:hover{
+    transform: scale(0.9);
+
+}
